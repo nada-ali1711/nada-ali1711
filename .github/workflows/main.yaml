@@ -1,5 +1,7 @@
 
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
+git remote set-url origin git@github.com:[nada-ali1711]/[nada-ali1711].git
+
 
 name: Generate Snake
 
